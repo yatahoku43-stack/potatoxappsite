@@ -108,7 +108,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 const db = getFirestore(app);
-const appId = 'potatox-app-id';
+const appId = 'e17dca5aa1bb-App.jsx-30';
 
 // --- OFFLINE MOCK DATA ---
 const MOCK_GAMES = [
